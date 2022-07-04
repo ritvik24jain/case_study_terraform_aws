@@ -26,4 +26,4 @@
 
 3. Run terraform apply
 
-```terraform apply -auto-approve```
+mayur
